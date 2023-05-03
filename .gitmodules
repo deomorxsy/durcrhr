@@ -1,0 +1,3 @@
+[submodule "server/flaskBack"]
+	path = server/flaskBack
+	url = https://github.com/deomorxsy/flaskBack.git
